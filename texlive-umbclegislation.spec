@@ -1,6 +1,6 @@
 Name:		texlive-umbclegislation
 Version:	41348
-Release:	1
+Release:	2
 Summary:	A LaTeX class for building legislation files for UMBC Student Government Association Bills
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umbclegislation
