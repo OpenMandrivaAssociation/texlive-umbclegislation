@@ -3,7 +3,7 @@ Version:	41348
 Release:	2
 Summary:	A LaTeX class for building legislation files for UMBC Student Government Association Bills
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umbclegislation
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/umbclegislation
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/umbclegislation.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/umbclegislation.doc.r%{version}.tar.xz
